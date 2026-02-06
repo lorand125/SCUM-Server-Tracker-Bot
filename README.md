@@ -22,7 +22,7 @@ docker-compose up -d
 
 ### Вариант 2: Установка вручную
 ```bash
-git clone https://github.com/ваш-логин/scum-server-tracker.git
+git clone https://github.com/lorand125/scum-server-tracker.git
 cd scum-server-tracker
 python3 -m venv venv
 source venv/bin/activate
