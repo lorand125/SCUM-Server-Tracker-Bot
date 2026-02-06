@@ -20,7 +20,7 @@ cp config.example.json config.json
 docker-compose up -d
 ```
 
-###Вариант 2: Установка вручную
+### Вариант 2: Установка вручную
 ```bash
 git clone https://github.com/ваш-логин/scum-server-tracker.git
 cd scum-server-tracker
