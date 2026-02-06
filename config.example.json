@@ -1,0 +1,20 @@
+json
+{
+    "log_file_path": "",
+    "host": "127.0.0.1",
+    "port": 5001,
+    "generate_test_data": false,
+    "update_interval": 5,
+    "history_hours": 168,
+    "log_level": "INFO",
+    "cors_origins": ["http://localhost:3000", "https://yourdomain.com"],
+    
+    "smb_config": {
+        "enabled": false,
+        "server": "192.168.1.100",
+        "share": "Logs",
+        "username": "",
+        "password": "",
+        "mount_point": "/mnt/scum_logs"
+    }
+}
